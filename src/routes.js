@@ -1,5 +1,4 @@
 import CreateProduct from "./Pages/CreateProduct";
-import DemoPayments from "./Pages/DemoPayments";
 import ManageOrders from "./Pages/ManageOrders";
 import ManageProducts from "./Pages/ManageProducts";
 import UpdateProduct from "./Pages/UpdateProduct";
@@ -24,11 +23,6 @@ const routes = [
     name: "Manage Orders",
     path: "/orders",
     component: () => <ManageOrders />,
-  },
-  {
-    name: "Demo Payments",
-    path: "/payments",
-    component: () => <DemoPayments />,
   },
 ];
 
