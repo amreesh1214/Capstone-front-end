@@ -37,24 +37,6 @@ import {
               </div>
             </AccordionPanel>
           </AccordionItem>
-  
-          <AccordionItem>
-            <h2>
-              <AccordionButton>
-                <Box as="span" flex="1" textAlign="left">
-                  Payments Journey
-                </Box>
-                <AccordionIcon />
-              </AccordionButton>
-            </h2>
-            <AccordionPanel pb={4}>
-              <div style={{ display: "flex", flexDirection: "column" }}>
-                <Link className="styled-link text-light" to="/payments">
-                  Demo Payments
-                </Link>
-              </div>
-            </AccordionPanel>
-          </AccordionItem>
         </Accordion>
       </GridItem>
     );
