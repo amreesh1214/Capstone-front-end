@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b2e00fc.css",
+    "main.js": "/static/js/main.79608bbe.js",
+    "static/js/787.9643ecdb.chunk.js": "/static/js/787.9643ecdb.chunk.js",
+    "static/media/pizza_banner.png": "/static/media/pizza_banner.8b37239c310c6def84c7.png",
+    "static/media/about-image.png": "/static/media/about-image.ed863928a4532f3c08fa.png",
+    "static/media/foody.png": "/static/media/foody.fd6aa0dc27378ac4227b.png",
+    "static/media/ClashDisplay-Medium.woff2": "/static/media/ClashDisplay-Medium.88a32cc8fc026d95af05.woff2",
+    "static/media/ClashDisplay-Regular.woff2": "/static/media/ClashDisplay-Regular.98b52bdf102085f28108.woff2",
+    "static/media/ClashDisplay-Bold.woff2": "/static/media/ClashDisplay-Bold.e2f8628a6f360f644a76.woff2",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/arrow-right-long-svgrepo-com.svg": "/static/media/arrow-right-long-svgrepo-com.5d3dda1a0d9d7e0a34cb94f154f554b8.svg",
+    "static/media/cart.svg": "/static/media/cart.b4cfdd0dfa255785a6f0420a01791ba0.svg",
+    "main.4b2e00fc.css.map": "/static/css/main.4b2e00fc.css.map",
+    "main.79608bbe.js.map": "/static/js/main.79608bbe.js.map",
+    "787.9643ecdb.chunk.js.map": "/static/js/787.9643ecdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b2e00fc.css",
+    "static/js/main.79608bbe.js"
+  ]
+}
